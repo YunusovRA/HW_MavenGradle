@@ -11,3 +11,7 @@
 /HW_Maven/api/target/
 /HW_Maven/db/target/
 /HW_Maven/service/target/
+
+.idea
+**/.idea
+**/.gradle
