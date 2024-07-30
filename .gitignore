@@ -1,0 +1,13 @@
+!/.idea/
+!/HW_Gradle/.gradle/
+!/HW_Gradle/.idea/
+!/HW_Gradle/gradle/
+!/HW_Maven/.idea/
+!/HW_Maven/api/target/
+!/HW_Maven/db/target/
+!/HW_Maven/service/target/
+
+# Project exclude paths
+/HW_Maven/api/target/
+/HW_Maven/db/target/
+/HW_Maven/service/target/
